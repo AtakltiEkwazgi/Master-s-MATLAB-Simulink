@@ -1,1 +1,1 @@
-# Master-s-MATLAB-Simulink
+# Master Thesis-MATLAB-Simulink
