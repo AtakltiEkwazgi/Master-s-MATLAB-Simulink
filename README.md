@@ -1,4 +1,4 @@
-# Master Thesis-MATLAB-Simulink
+# Master-s-MATLAB-Simulink
 
 Project Overview
 
