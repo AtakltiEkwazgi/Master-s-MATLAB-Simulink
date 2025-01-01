@@ -9,6 +9,7 @@ About the Project
 This research was carried out by reviewing the literature, assessing car accident data from federal and regional road Authority records in Ethiopia, and selecting specific vehicle models from Mesifn Industrial Engineering (MIE), Mekelle. A vehicle mathematical model was developed, followed by the selection and design of an appropriate controller, actuator, and sensor. Analytical analysis and simulations using MATLAB Simulink were performed to verify the results. Finally, a comparison of the results was made, along with validation for various road conditions, parameters, and vehicle models. For further details, please use the file below and run it on your computer.
  
   Requirements
+  
 •	MATLAB Version: Ensure MATLAB 2019 or above is installed to run this file successfully.
 
 Usage Instructions
