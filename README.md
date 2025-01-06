@@ -10,11 +10,11 @@ This research was carried out by reviewing the literature, assessing car acciden
  
   Requirements
   
-•	MATLAB Version: Ensure MATLAB 2019 or above is installed to run this file successfully.
+•	MATLAB Version: Ensure MATLAB 2017 or above is installed to run this file successfully.
 
 Usage Instructions
 1.	Clone or download the repository to your local machine.
-2.	Open the MATLAB file in MATLAB (2019 or later) and browse the folder.
+2.	Open the MATLAB file in MATLAB (2017 or later) and browse the folder.
 3.	Run ''Fuzzy'' file to workspace
 4.	Run ''Vehicle'' file
 5.	Then click the output box ''Ua'' and will display the result
